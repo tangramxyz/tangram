@@ -2,7 +2,7 @@
 
 To run the benchmarks:
 
-1. Install the nix package manager with flake support: https://nixos.wiki/wiki/Flakes.
+1. Install the nix package manager with flake support: https://wiki.nixos.org/wiki/Flakes.
 
 2. Clone the modelfox repo and `cd` into it: `git clone git@github.com:modelfoxdotdev/modelfox && cd modelfox`.
 
